@@ -1,7 +1,6 @@
 ---
 name: debate
 description: Orchestrate a structured debate between persona agents on a plan, code, or architecture decision
-disable-model-invocation: true
 argument-hint: [topic or file path]
 ---
 

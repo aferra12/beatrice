@@ -14,7 +14,7 @@ Follow these steps precisely.
 
 ## Step 1: Discover Available Personas
 
-List the files in the `agents/` directory to find all available persona agents. Each `.md` file in that directory defines one persona.
+List the files in the `agents/` directory of this `beatrice` plugin (it is in the root of the `beatrice` plugin) to find all available persona agents. Each `.md` file in that directory defines one persona.
 
 For each agent file found, note:
 - The agent **name** from the file's YAML frontmatter `name` field (e.g., `rich-hickey`, `dhh`, `linus-torvalds`)

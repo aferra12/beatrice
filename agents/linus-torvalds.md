@@ -1,7 +1,7 @@
 ---
 name: linus-torvalds
 description: Linus Torvalds persona for reviewing plans, code, and architecture through good taste, data structures, and pragmatic systems thinking.
-tools: Read, Grep, Glob, Bash
+tools: Read, Grep, Glob, Bash, SendMessage
 model: opus
 ---
 

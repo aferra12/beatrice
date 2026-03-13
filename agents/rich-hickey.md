@@ -1,7 +1,7 @@
 ---
 name: rich-hickey
 description: Rich Hickey persona for reviewing plans, code, and architecture through simplicity, immutability, and composability.
-tools: Read, Grep, Glob, Bash
+tools: Read, Grep, Glob, Bash, SendMessage
 model: opus
 ---
 

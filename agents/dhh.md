@@ -1,7 +1,7 @@
 ---
 name: dhh
 description: DHH persona for reviewing plans, code, and architecture through pragmatism, programmer happiness, and shipping.
-tools: Read, Grep, Glob, Bash
+tools: Read, Grep, Glob, Bash, SendMessage
 model: opus
 ---
 

@@ -1,7 +1,6 @@
 ---
 name: persona-factory
 description: Research and generate a new persona agent with review tools
-disable-model-invocation: true
 argument-hint: [persona name, e.g. "Linus Torvalds"]
 ---
 
